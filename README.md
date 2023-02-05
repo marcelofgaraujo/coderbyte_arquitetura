@@ -9,11 +9,11 @@ O desafio consiste em apenas um esboço da lógica pensada na resolução do pro
 Se vc tem uma chave SSH:<br><br>
 
 ```sh
-git@github.com:marcelofgaraujo/coderbyte_arquitetura.git
+git clone git@github.com:marcelofgaraujo/coderbyte_arquitetura.git
 ```
 
 Se vc não tem:
 
 ```sh
-https://github.com/marcelofgaraujo/coderbyte_arquitetura.git
+git clone https://github.com/marcelofgaraujo/coderbyte_arquitetura.git
 ```
